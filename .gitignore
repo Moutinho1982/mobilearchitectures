@@ -1,0 +1,47 @@
+@@ -0,0 +1,46 @@
+# Diversos
+* .class
+* .log
+* .pyc
+* .swp
+.DS_Store
+.atom /
+.buildlog /
+.história
+.svn /
+
+# Relacionado ao IntelliJ
+* .iml
+* .ipr
+* .iws
+.ideia /
+
+# A pasta .vscode contém a configuração de inicialização e as tarefas que você configura em
+# VS Code que você pode querer incluir no controle de versão, então esta linha
+# é comentado por padrão.
+# .vscode/
+
+# Flutter/Dart/Pub relacionado
+** / doc / api /
+** / ios / Flutter / .last_build_id
+.dart_tool /
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache /
+.pub /
+/ construir /
+
+# Relacionado à Web
+lib / generated_plugin_registrant.dart
+
+# Simbologia relacionada
+aplicativo. * .símbolos
+
+# Ofuscação relacionada
+aplicativo. * .map.json
+
+# O Android Studio colocará os artefatos de compilação aqui
+/ android / aplicativo / depurar
+/ android / aplicativo / perfil
+/ android / aplicativo / lançamento
